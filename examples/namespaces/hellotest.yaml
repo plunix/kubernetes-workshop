@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: helloworld
-  namespace: integration
+  namespace: data-servizi
 spec:
   containers:
   - image: quay.io/ipedrazas/alpine:latest
